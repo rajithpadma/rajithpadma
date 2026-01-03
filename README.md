@@ -1,5 +1,26 @@
 # 💫 About Me:
-Im currently a btech final year student , studying Cse datascienec as my course and I'm currently looking out for internship and job opportunities,  upon the data science and attained the required skill base and have more intreset towards ai and have multiple projects on ai and machine learning , string base of databases , ml , ai learning in python with Stratification and have a expencie of ai projects working with codtech private limited company for 6 months of internship and currently working in  a internship at hackveda for dtascience projects 
+I am a final-year B.Tech student in Computer Science (Data Science specialization) with strong interests in Artificial Intelligence and Machine Learning. I have built a solid foundation in databases, machine learning, and AI development using Python (including techniques such as stratification). My academic journey and internships have equipped me with practical experience in developing AI-driven solutions and data science projects.
+
+💡 Skills
+- Programming & Tools: Python, SQL, Machine Learning libraries (Scikit-learn, Pandas, NumPy, Matplotlib)
+- AI & ML Expertise: Model building, stratification, supervised & unsupervised learning, deep learning basics
+- Databases: Strong understanding of relational databases and data handling
+- Projects: Multiple AI and ML projects showcasing end-to-end implementation
+- Soft Skills: Problem-solving, analytical thinking, teamwork, adaptability
+
+📂 Experience
+Codtech Private Limited
+AI Intern (6 months)
+- Worked on AI-based projects, applying machine learning techniques to real-world problems
+- Gained hands-on experience in model training, evaluation, and deployment
+Hackveda
+Data Science Intern (Current)
+- Engaged in data science projects focusing on data preprocessing, model building, and insights generation
+- Strengthened expertise in Python-based machine learning workflows
+
+🎯 Career Objective
+Seeking internship and job opportunities in Data Science, Artificial Intelligence, and Machine Learning where I can leverage my technical skills, project experience, and passion for AI to contribute to innovative solutions and grow as a professional.
+
 
 
 ## 🌐 Socials:
